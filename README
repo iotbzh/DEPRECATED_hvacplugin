@@ -1,0 +1,11 @@
+This folder contains the files to build the AMB source plugin from K2L to control the demo HVAC hardware provided by Microchip. It is a part of the AGL demo for CES 2016. See COPYING file for the license.
+
+Copyright (C) 2013-2015 K2L GmbH & Co. KG
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+This file is licensed under GPLv2.
+
