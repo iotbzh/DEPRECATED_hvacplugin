@@ -1,4 +1,5 @@
 PROJECT(hvacplugin CXX)
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8.8)
 SET(CMAKE_CXX_FLAGS "-std=c++11 ${CMAKE_CXX_FLAGS}")
 
 include(FindPkgConfig)
